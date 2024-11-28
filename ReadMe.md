@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on using AIML for industrial applications.<br>I'm looking to collaborate on end-to-end ml pipelines and deploying them.<br>It's better to get a community of developers with keen interest in implementations of product using project based approach.<br>I'm currently learning about LLMs and Gen AI
+"Ad astra per aspera"
 
 
 ## 🌐 Socials:
